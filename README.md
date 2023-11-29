@@ -1,8 +1,4 @@
-- 👋 Teste de funcionamento
-- .
-- 📫 
 
-<!---
-Austrinuscode/Austrinuscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://sedo.com/?language=es&campaignId=331439" target="_parent">
+    <img src="https://cdn.sedo.com/c7r/assets/static/images/banner/es/Sedo_Banner_72890_04.jpg" width="728" height="90">
+</a>
